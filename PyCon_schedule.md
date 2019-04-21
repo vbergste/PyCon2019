@@ -1,8 +1,8 @@
 Agenda for Pycon
 <br>
 
-############### May 1st #########################
-<br>Tutorial 1
+## May 1st
+Tutorial 1
 <br>Airflow vs Script Soup
 <br>9:00AM - 12:20PM
 <br>
@@ -21,20 +21,27 @@ In this workshop, you will learn how to migrate from ‘scripts soups’ (a set 
 During this tutorial we'll learn a number of lazy looping techniques which will help you write more efficient and more readable Python code. We'll get practice creating generators, playing with iterators, and using generators and iterators to drastically restructure our code in a more descriptive data-centric way.
 
 You'll walk out of this tutorial with hands-on experience with Python's various lazy looping constructs and a greater appreciation for how looping works under the hood in Python.
+<br><br>
 
-
-############### May 2nd #########################
-<br>Volunteer 
+## May 2nd
+Volunteer 
 <br>At tutorials 8:30 - 9:00, greeter, tutorial 4, near
 
 <br>Tutorial 3
 <br>Data Science Best Practices with Pandas
 <br>1:20 - 4:40
 
+<b>Description</b>
+<br>The pandas library is a powerful tool for multiple phases of the data science workflow, including data cleaning, visualization, and exploratory data analysis. However, the size and complexity of the pandas library makes it challenging to discover the best way to accomplish any given task.
+
+In this tutorial, you'll use pandas to answer questions about multiple real-world datasets. Through each exercise, you'll learn important data science skills as well as "best practices" for using pandas. By the end of the tutorial, you'll be more fluent at using pandas to correctly and efficiently answer your own data science questions.
+
+Participants should have an intermediate knowledge of pandas and an interest in data science, but are not required to have any experience with the data science workflow. Datasets will be provided by the instructor.
+
 <br>4:45 - 5:30 Hall A Newcover Orientation Hall A
 <br>5:30 - 7:30 Opening Reception Hall B&C
 
-############### May 3rd #########################
+## May 3rd 
 <br>8:00 breakfast
 <br>9:00 AM Welcome to PyCon and Keynote 9:00 - 10:00
 <br>10:50 - 11:20 Practical Decorators - Reuven M Lerner. Grand Ballroom A
@@ -48,18 +55,18 @@ You'll walk out of this tutorial with hands-on experience with Python's various 
 <br>Volunteer
 <br>5:00 - 10:00 Volunteer at Art of Python Room 26ABC
 
-############### May 4th #########################
-<br>8:00 - 10:00 Keynote
+## May 4th
+8:00 - 10:00 Keynote
 <br>10:50 The Zen of Python Teams - Adrienne Lowe. Grand Ballroom C
 
 12:10 Code Review Skills - Nina Zakharenko. Grand Ballroom B
 
 2:30 PM - 6:30 PM. Room 25C  Mentored sprints!!!!!
-with Jupyter Lab, folium
+<br>with Jupyter Lab, folium
 
 PyLadies Auction 6:30
 
-############### May 5th #########################
+## May 5th
 
 8:30 - 10:00 Lighting Talks, Keynote
 <br>Poster Session
