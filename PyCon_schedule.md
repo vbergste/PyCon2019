@@ -1,7 +1,7 @@
 Agenda for Pycon
 <br>
 
-## May 1st
+## Wednesday, May 1st
 Tutorial 1
 <br>Airflow vs Script Soup
 <br>9:00AM - 12:20PM
@@ -23,7 +23,7 @@ During this tutorial we'll learn a number of lazy looping techniques which will 
 You'll walk out of this tutorial with hands-on experience with Python's various lazy looping constructs and a greater appreciation for how looping works under the hood in Python.
 <br><br>
 
-## May 2nd
+## Thursday, May 2nd
 Volunteer 
 <br>At tutorials 8:30 - 9:00, greeter, tutorial 4, near
 
@@ -41,7 +41,7 @@ Participants should have an intermediate knowledge of pandas and an interest in 
 <br>4:45 - 5:30 Hall A Newcover Orientation Hall A
 <br>5:30 - 7:30 Opening Reception Hall B&C
 
-## May 3rd 
+## Friday, May 3rd 
 <br>8:00 breakfast
 <br>9:00 AM Welcome to PyCon and Keynote 9:00 - 10:00
 <br>10:50 - 11:20 Practical Decorators - Reuven M Lerner. Grand Ballroom A
@@ -55,7 +55,7 @@ Participants should have an intermediate knowledge of pandas and an interest in 
 <br>Volunteer
 <br>5:00 - 10:00 Volunteer at Art of Python Room 26ABC
 
-## May 4th
+## Saturday, May 4th
 8:00 - 10:00 Keynote
 <br>10:50 The Zen of Python Teams - Adrienne Lowe. Grand Ballroom C
 
@@ -66,7 +66,7 @@ Participants should have an intermediate knowledge of pandas and an interest in 
 
 PyLadies Auction 6:30
 
-## May 5th
+## Sunday, May 5th
 
 8:30 - 10:00 Lighting Talks, Keynote
 <br>Poster Session
