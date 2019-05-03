@@ -57,8 +57,8 @@ Participants should have an intermediate knowledge of pandas and an interest in 
 
 ## Saturday, May 4th
 8:00 - 10:00 Keynote
-9:00 Alaska open space
-10:00 Oil & Gas open space
+<br>9:00 Alaska open space
+<br>10:00 Oil & Gas open space
 <br>10:50 The Zen of Python Teams - Adrienne Lowe. Grand Ballroom C
 
 12:10 Code Review Skills - Nina Zakharenko. Grand Ballroom B
